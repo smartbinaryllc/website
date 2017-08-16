@@ -27,19 +27,17 @@ export default () =>
         </div>
     </section>
     <section className="what-we-do_wrapper">
-        <div className="what-we-do p-4">
+        <div className="what-we-do p-4 row container-fluid">
+            <div className="col-8">
             <h2>What do we do?</h2>
-            <div className="row container-fluid">
-                <div className="col-8">
-                <p>I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .N</p>
-                </div>
-                <div className="col">
-                    <div className="tech-logos row">
-                        <img src={logo} alt="Logo" className="col col-md-6 img-responsive" />
-                        <img src={html} alt="html5" className="col col-md-6  img-responsive" />
-                        <img src={react} alt="react" className="col col-md-6  img-responsive" />
-                        <img src={css} alt="css3" className="col col-md-6  img-responsive" />
-                    </div>
+            <p>I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .N</p>
+            </div>
+            <div className="col">
+                <div className="tech-logos row">
+                    <img src={logo} alt="Logo" className="col col-md-6 img-responsive" />
+                    <img src={html} alt="html5" className="col col-md-6  img-responsive" />
+                    <img src={react} alt="react" className="col col-md-6  img-responsive" />
+                    <img src={css} alt="css3" className="col col-md-6  img-responsive" />
                 </div>
             </div>
         </div>

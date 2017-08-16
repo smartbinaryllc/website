@@ -2,66 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="676751d5-04c8-4fbb-a57e-052a988c0822" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/HTML5_Badge_512.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/backtoback.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/hero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/logo-title-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/reactNe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/secondary-hero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/todd_smart.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/website.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/font-awesome.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/fonts/font-awesome-4.7.0/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/main.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/index.js" afterPath="$PROJECT_DIR$/src/layouts/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/main.css" afterPath="$PROJECT_DIR$/src/layouts/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/main.css.map" afterPath="$PROJECT_DIR$/src/layouts/main.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/main.scss" afterPath="$PROJECT_DIR$/src/layouts/main.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/index.js" afterPath="$PROJECT_DIR$/src/pages/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utils/typography.js" afterPath="$PROJECT_DIR$/src/utils/typography.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -85,8 +30,8 @@
           <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/pages/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="353">
-                  <caret line="40" column="75" lean-forward="false" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
+                <state relative-caret-position="68">
+                  <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="42" selection-end-column="14" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -123,8 +68,8 @@
           <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/layouts/main.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="480">
-                  <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+                <state relative-caret-position="90">
+                  <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
                   <folding />
                 </state>
               </provider>
@@ -431,7 +376,7 @@
       <workItem from="1502752492380" duration="396000" />
       <workItem from="1502753928410" duration="462000" />
       <workItem from="1502754955873" duration="477000" />
-      <workItem from="1502762301204" duration="25004000" />
+      <workItem from="1502762301204" duration="25391000" />
     </task>
     <task id="LOCAL-00001" summary="WEB-6&#10;- spent way too much time trying to learn Gatsby&#10;- added font-awesome&#10;- added bootstrap&#10;- started HTML structure&#10;- started base styling&#10;- will need to look closely at responsive design on all screen sizes and adjust&#10;">
       <created>1502845226352</created>
@@ -440,11 +385,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502845226352</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="WEB-6&#10;- additional HTML, added form&#10;- went through responsive design and made adjustments to code&#10;- need to do one more walk through on all screen sizes&#10;">
+      <created>1502857766493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1502857766493</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31430000" />
+    <option name="totallyTimeSpent" value="31817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="289" y="60" width="1136" height="788" extended-state="0" />
@@ -482,7 +434,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="WEB-6&#10;- spent way too much time trying to learn Gatsby&#10;- added font-awesome&#10;- added bootstrap&#10;- started HTML structure&#10;- started base styling&#10;- will need to look closely at responsive design on all screen sizes and adjust&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="WEB-6&#10;- spent way too much time trying to learn Gatsby&#10;- added font-awesome&#10;- added bootstrap&#10;- started HTML structure&#10;- started base styling&#10;- will need to look closely at responsive design on all screen sizes and adjust&#10;" />
+    <MESSAGE value="WEB-6&#10;- additional HTML, added form&#10;- went through responsive design and made adjustments to code&#10;- need to do one more walk through on all screen sizes&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="WEB-6&#10;- additional HTML, added form&#10;- went through responsive design and made adjustments to code&#10;- need to do one more walk through on all screen sizes&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -777,8 +730,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="40" column="75" lean-forward="false" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
+        <state relative-caret-position="68">
+          <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="42" selection-end-column="14" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -787,8 +740,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        <state relative-caret-position="90">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           <folding />
         </state>
       </provider>
