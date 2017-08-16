@@ -32,7 +32,7 @@ export default () =>
             <h2>What do we do?</h2>
             <p>I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .N</p>
             </div>
-            <div className="col">
+            <div className="col pt-5">
                 <div className="tech-logos row">
                     <img src={logo} alt="Logo" className="col col-md-6 img-responsive" />
                     <img src={html} alt="html5" className="col col-md-6  img-responsive" />
