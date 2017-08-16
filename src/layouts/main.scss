@@ -1,0 +1,148 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+$font-family: 'Source Sans Pro', sans-serif;
+$primary: #4D575F;
+$twitter: #4099FF;
+$reddit: #ff1a00;
+$linkedin: #0083be;
+$dribbble: #e74d89;
+
+
+html {
+  font-size: 12px;
+  color: $primary;
+}
+
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  font-family: $font-family;
+}
+
+.hero {
+  background-image: url('../assets/hero.png');
+  min-height: 25vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0;
+  background-size: cover;
+  display: flex;
+
+  h2 {
+    font-weight: lighter;
+  }
+
+  i {
+    font-size: 40px;
+  }
+
+  .row {
+    width: 100%;
+    margin: auto;
+    color: white;
+    justify-content: center;
+  }
+
+  @include media-breakpoint-up(md) {
+
+    h1 {
+      font-size: 5rem;
+    }
+
+    i {
+      font-size: 100px;
+    }
+  }
+}
+
+.smart-binary, .founders, .what-we-do, .contact-us {
+  max-width: 100%;
+  margin: auto;
+
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 700;
+  }
+
+  @include media-breakpoint-up(lg) {
+    max-width: 60%;
+  }
+}
+
+.smart-binary {
+
+  .row {
+    align-items: center;
+  }
+}
+
+.what-we-do_wrapper {
+  background-image: url('../assets/secondary-hero.png');
+  min-height: 245px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0;
+  background-size: cover;
+
+  h2, p {
+    color: white;
+  }
+
+  .tech-logos {
+    align-items: center;
+  }
+}
+
+.founders {
+  text-align: center;
+
+  img {
+    border-radius: 100%;
+    box-shadow: 0 2px 5px 4px rgba(0,0,0,0.5);
+  }
+
+  .social-icons {
+
+    i {
+      font-size: 16px;
+    }
+
+    .fa-twitter {
+      color: $twitter;
+    }
+
+    .fa-reddit {
+      color: $reddit;
+    }
+
+    .fa-dribbble {
+      color: $dribbble;
+    }
+
+    .fa-linkedin-square {
+      color: $linkedin;
+    }
+  }
+}
+
+footer {
+
+  .social-icons {
+
+    a {
+      color: $primary;
+    }
+
+    i {
+      font-size: 32px;
+    }
+  }
+}
+
+
+
