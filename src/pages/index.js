@@ -143,7 +143,7 @@ export default () =>
       </div>
     </section>
     <section className="founders p-4">
-      <h2>Meet the Partners</h2>
+      <h2>Meet the Technical Partners</h2>
       <ul className="nav justify-content-center pr-0 container-fluid">
         <li className="nav-item">
           <a href="" className="nav-link active">
@@ -153,11 +153,6 @@ export default () =>
         <li className="nav-item">
           <a href="" className="nav-link">
             Brad Bohen
-          </a>
-        </li>
-        <li className="nav-item">
-          <a href="" className="nav-link">
-            Sarah Smart
           </a>
         </li>
       </ul>
