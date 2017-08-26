@@ -1,8 +1,7 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "smart-binary",
+  "description": "Smart Binary, LLC",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.8",
     "gatsby-link": "^1.6.13",
@@ -11,9 +10,7 @@
     "gatsby-plugin-typography": "^1.7.7",
     "typography-theme-bootstrap": "^0.15.10"
   },
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
