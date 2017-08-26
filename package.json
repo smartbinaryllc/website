@@ -26,6 +26,6 @@
   "devDependencies": {
     "bootstrap": "^4.0.0-alpha.6",
     "font-awesome": "^4.7.0",
-    "prettier": "^1.5.2"
+    "prettier": "^1.5.3"
   }
 }

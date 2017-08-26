@@ -1,134 +1,268 @@
 import React from "react";
 
+import backtoback from "../assets/backtoback.png";
+import css from "../assets/css3.png";
+import react from "../assets/reactNE.png";
+import html from "../assets/HTML5_Badge_512.png";
+import logo from "../assets/logo-title-light.png";
+import todd from "../assets/todd_smart.png";
 
-import backtoback from '../../assets/backtoback.png'
-import css from '../../assets/css3.png'
-import react from '../../assets/reactNE.png'
-import html from '../../assets/HTML5_Badge_512.png'
-import logo from '../../assets/logo-title-light.png'
-import todd from '../../assets/todd_smart.jpg'
+import backtoback from "../../assets/backtoback.png";
+import css from "../../assets/css3.png";
+import react from "../../assets/reactNE.png";
+import html from "../../assets/HTML5_Badge_512.png";
+import logo from "../../assets/logo-title-light.png";
+import todd from "../../assets/todd_smart.jpg";
 
-
-import '../layouts/main.css';
-import '../layouts/fonts/font-awesome-4.7.0/css/font-awesome.min.css';
-
+import "../layouts/main.css";
+import "../layouts/fonts/font-awesome-4.7.0/css/font-awesome.min.css";
 
 export default () =>
-<div className="">
+  <div className="">
     <section className="smart-binary container-fluid p-4">
-        <h2>What is Smart Binary?</h2>
-        <div className="row">
-            <div className="col-sm-6">
-            <p>I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .N</p>
-            </div>
-            <div className="col-sm-6">
-                <img src={backtoback} alt="Logo" className=" img-responsive" />
-            </div>
+      <h2>What is Smart Binary?</h2>
+      <div className="row">
+        <div className="col-sm-6">
+          <p>
+            Smart Binary, LLC is an{" "}
+            <a href="http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=SMARTBINARY%20L150001747200&aggregateId=flal-l15000174720-1fd468a2-2724-402b-b343-706d46b93cc8&searchTerm=smart%20binary&listNameOrder=SMARTBINARY%20L040000042080">
+              incorporated
+            </a>{" "}
+            software consultancy.
+          </p>
+          <p>
+            We are a partnership with each partner working close to 100% as
+            consultants for our clients. Each of our engagements are different
+            and our partners generally work independently of each other on
+            different projects/teams/clients/cities.
+          </p>
+          <p>
+            Our partners work with only our closest, most trusted, and proven
+            consultants and interns to help meet our clients needs on time and
+            on budget.
+          </p>
+          <p>
+            To determine our Corp-to-Corp (C2C) all-inclusive rate, we evaluate
+            the following aspects of the engagement:
+          </p>
+          <p>
+            <li>client location</li>
+            <li>on-site / remote percentage</li>
+            <li>project type</li>
+            <li>technology stack</li>
+            <li>requested role(s)</li>
+            <li>requested responsibilities</li>
+            <li>length of engagement</li>
+            <li>problem domain</li>
+          </p>
         </div>
+        <div className="col-sm-6">
+          <img src={backtoback} alt="Logo" className=" img-responsive" />
+        </div>
+      </div>
     </section>
     <section className="what-we-do_wrapper">
-        <div className="what-we-do p-4 row container-fluid">
-            <div className="col-8">
-            <h2>What do we do?</h2>
-            <p>I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .N</p>
-            </div>
-            <div className="col pt-5">
-                <div className="tech-logos row">
-                    <img src={logo} alt="Logo" className="col col-md-6 img-responsive" />
-                    <img src={html} alt="html5" className="col col-md-6  img-responsive" />
-                    <img src={react} alt="react" className="col col-md-6  img-responsive" />
-                    <img src={css} alt="css3" className="col col-md-6  img-responsive" />
-                </div>
-            </div>
+      <div className="what-we-do p-4 row container-fluid">
+        <div className="col-8">
+          <h2>What do we do?</h2>
+          <p>
+            Smart Binary is an <b>Software Consultance</b> specializing in{" "}
+            <b>Mobile Application Development</b> capable of handling the full
+            stack from UI to API to DB to Cloud. Founded in 1999, Smart Binary
+            prides itself in customized, one-on-one client interaction in
+            Internet Professional Services. We strive to provide the highest
+            levels of communication and produce high quality results to
+            businesses across the USA and beyond, at an affordable rate.
+          </p>
+          <p>
+            Our Partners combine for more than 40-years of academic and
+            professional experience. With our skill sets, experience levels, and
+            industry connections, Smart Binary allows you to bypass expensive
+            agencies and go
+            <b>
+              <i>"Direct to the Source".</i>
+            </b>
+          </p>
+          <p>
+            <b>
+              <i>"Direct to the Source"</i>
+            </b>
+          </p>
+          <p>
+            Our Partners are industry experts that you will have direct access
+            to.
+          </p>
+          <p>What does that fiscally mean to you?</p>
+          <p>
+            ...<b>no need</b> to pay heavy fees to post job ads...
+          </p>
+          <p>
+            ...<b>no need</b> to pay a 50% up-charge to recruiters...
+          </p>
+          <p>
+            ...<b>no need</b> to spend weeks interviewing candidates...
+          </p>
+          <p>
+            <i>
+              Save time and money by going <b>Direct to the Source</b>.
+            </i>
+          </p>
+          <p>
+            We look forward to partnering with you for your development and
+            design needs.
+          </p>
         </div>
+        <div className="col pt-5">
+          <div className="tech-logos row">
+            <img
+              src={logo}
+              alt="Logo"
+              className="col col-md-6 img-responsive"
+            />
+            <img
+              src={html}
+              alt="html5"
+              className="col col-md-6  img-responsive"
+            />
+            <img
+              src={react}
+              alt="react"
+              className="col col-md-6  img-responsive"
+            />
+            <img
+              src={css}
+              alt="css3"
+              className="col col-md-6  img-responsive"
+            />
+          </div>
+        </div>
+      </div>
     </section>
     <section className="founders p-4">
-        <h2>Meet the Founders</h2>
-        <h4>Smart Binary is basically run by superheros</h4>
-        <ul className="nav justify-content-center pr-0 container-fluid">
-            <li className="nav-item">
-                <a href="" className="nav-link active">Founder 1</a></li>
-            <li className="nav-item">
-                <a href="" className="nav-link">Founder 2</a></li>
-            <li className="nav-item">
-                <a href="" className="nav-link">Founder 3</a></li>
-            <li className="nav-item">
-                <a href="" className="nav-link">Founder 4</a></li>
-        </ul>
-        <div className="row">
-            <div className="col-sm-6">
-                <img src={todd} alt="Todd Smart" />
-            </div>
-            <div className="col-sm-6 text-right">
-                <h5>Todd Smart</h5>
-                <h6>Partner & Senior Consultant</h6>
-                <p>I am a professional software engineer with over two decades of Full Stack development experience focused on JavaScript, Java/J2EE, and .NET.</p>
-                <div className="social-icons">
-                    <ul className="nav justify-content-end">
-                        <li className="nav-item">
-                            <a href="" className="nav-link">
-                                <i className="fa fa-twitter"/></a>
-                        </li>
-                        <li className="nav-item">
-                            <a href="" className="nav-link">
-                                <i className="fa fa-reddit"/>
-                            </a>
-                        </li>
-                        <li className="nav-item">
-                            <a href="" className="nav-link">
-                                <i className="fa fa-linkedin-square"/>
-                            </a>
-                        </li>
-                        <li className="nav-item">
-                            <a href="" className="nav-link">
-                                <i className="fa fa-dribbble"/>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+      <h2>Meet the Partners</h2>
+      <ul className="nav justify-content-center pr-0 container-fluid">
+        <li className="nav-item">
+          <a href="" className="nav-link active">
+            Todd Smart
+          </a>
+        </li>
+        <li className="nav-item">
+          <a href="" className="nav-link">
+            Brad Bohen
+          </a>
+        </li>
+        <li className="nav-item">
+          <a href="" className="nav-link">
+            Sarah Smart
+          </a>
+        </li>
+      </ul>
+      <div className="row">
+        <div className="col-sm-6">
+          <img src={todd} alt="Todd Smart" />
         </div>
+        <div className="col-sm-6 text-right">
+          <h4>Todd Smart</h4>
+          <h5>Software Engineer | Mentor | Agile Coach</h5>
+          <p>
+            Todd is a professional software engineer with nearly three decades
+            of full-stack development experience.
+          </p>
+          <p>
+            Todd builds enterprise-level mobile and web applications using React
+            Native, React, GraphQL, and Node.
+          </p>
+          <p>
+            Academically, Todd attained a master’s degree in Computer Science.
+          </p>
+          <div className="social-icons">
+            <ul className="nav justify-content-end">
+              <li className="nav-item">
+                <a
+                  href="https://www.linkedin.com/in/toddsmart/"
+                  className="nav-link"
+                >
+                  <i className="fa fa-linkedin-square" />
+                </a>
+              </li>
+              <li className="nav-item">
+                <a href="https://twitter.com/toddsmart" className="nav-link">
+                  <i className="fa fa-twitter" />
+                </a>
+              </li>
+              <li className="nav-item">
+                <a href="https://github.com/toddsmart" className="nav-link">
+                  <i className="fa fa-github" />
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </section>
     <section className="contact-us">
-        <h2>Interested in getting in touch?</h2>
-        <form className="row container p-0 m-0">
-            <div className="col-sm-6">
-                <div className="form-group">
-                    <input type="text" className="form-control" id="contactName" placeholder="Your Name"/>
-                </div>
-                <div className="form-group">
-                    <input type="email" className="form-control" id="emailAddress" placeholder="Enter email"/>
-                </div>
-                <div className="form-group">
-                    <input type="email" className="form-control" id="subject" placeholder="Subject"/>
-                </div>
-            </div>
-            <div className="col-sm-6">
-                <div className="form-group">
-                    <textarea className="form-control" id="message" rows="3" placeholder="Your Message"/>
-                </div>
-                <button type="submit" className="btn btn-block btn-primary">Send</button>
-            </div>
-        </form>
+      <h2>Interested in getting in touch?</h2>
+      <form className="row container p-0 m-0">
+        <div className="col-sm-6">
+          <div className="form-group">
+            <input
+              type="text"
+              className="form-control"
+              id="contactName"
+              placeholder="Your Name"
+            />
+          </div>
+          <div className="form-group">
+            <input
+              type="email"
+              className="form-control"
+              id="emailAddress"
+              placeholder="Enter email"
+            />
+          </div>
+          <div className="form-group">
+            <input
+              type="email"
+              className="form-control"
+              id="subject"
+              placeholder="Subject"
+            />
+          </div>
+        </div>
+        <div className="col-sm-6">
+          <div className="form-group">
+            <textarea
+              className="form-control"
+              id="message"
+              rows="3"
+              placeholder="Your Message"
+            />
+          </div>
+          <button type="submit" className="btn btn-block btn-primary">
+            Send
+          </button>
+        </div>
+      </form>
     </section>
     <footer className="p-4">
-        <div className="social-icons">
-            <ul className="nav justify-content-center">
-                <li className="nav-item">
-                    <a href="" className="nav-link">
-                        <i className="fa fa-twitter"/></a>
-                </li>
-                <li className="nav-item">
-                    <a href="" className="nav-link">
-                        <i className="fa fa-dribbble"/>
-                    </a>
-                </li>
-                <li className="nav-item">
-                    <a href="" className="nav-link">
-                        <i className="fa fa-linkedin-square"/>
-                    </a>
-                </li>
-            </ul>
-        </div>
+      <div className="social-icons">
+        <ul className="nav justify-content-center">
+          <li className="nav-item">
+            <a href="" className="nav-link">
+              <i className="fa fa-twitter" />
+            </a>
+          </li>
+          <li className="nav-item">
+            <a href="" className="nav-link">
+              <i className="fa fa-dribbble" />
+            </a>
+          </li>
+          <li className="nav-item">
+            <a href="" className="nav-link">
+              <i className="fa fa-linkedin-square" />
+            </a>
+          </li>
+        </ul>
+      </div>
     </footer>
-</div>
+  </div>;
