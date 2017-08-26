@@ -31,19 +31,23 @@ export default () =>
             software consultancy.
           </p>
           <p>
-            We are a partnership with each partner working close to 100% as
-            consultants for our clients. Each of our engagements are different
-            and our partners generally work independently of each other on
-            different projects/teams/clients/cities.
+            We are a partnership. Each technical partner is foremost a
+            consultant for our clients. They each have proven, referenceable
+            track records of analyzing, designing, implementing, and maintaining
+            solutions ranging from stealth startup quick releases to long-term
+            enterprise solutions for the world's largest companies.
           </p>
           <p>
-            Our partners work with only our closest, most trusted, and proven
-            consultants and interns to help meet our clients needs on time and
-            on budget.
+            If and when you have a need to build out a team to meet your most
+            extreme timelines, our partners are able to tap into our closest,
+            most trusted, and proven colleagues to scale and delivery
+            accordingly. We will always provide you with the opportunity to meet
+            and even interview colleagues that we recommend to you to help scale
+            up and deliver.
           </p>
           <p>
-            To determine our Corp-to-Corp (C2C) all-inclusive rate, we evaluate
-            the following aspects of the engagement:
+            To determine our corp-to-corp, all-inclusive rate, we evaluate the
+            following aspects of the engagement:
           </p>
           <p>
             <li>client location</li>
@@ -66,11 +70,11 @@ export default () =>
         <div className="col-8">
           <h2>What do we do?</h2>
           <p>
-            Smart Binary is an <b>Software Consultance</b> specializing in{" "}
-            <b>Mobile Application Development</b> capable of handling the full
-            stack from UI to API to DB to Cloud. Founded in 1999, Smart Binary
-            prides itself in customized, one-on-one client interaction in
-            Internet Professional Services. We strive to provide the highest
+            Smart Binary is an <b>Software Consultancy</b> specializing in{" "}
+            <b>Mobile Application Development</b>. We are capable of handling
+            the full stack from UI to API to DB to Cloud. Founded in 1999, Smart
+            Binary excels in customized, one-on-one client interaction in
+            applications consulting services. We strive to provide the highest
             levels of communication and produce high quality results to
             businesses across the USA and beyond, at an affordable rate.
           </p>
