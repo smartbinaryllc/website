@@ -1,12 +1,12 @@
 import React from "react";
 
 
-import backtoback from '../assets/backtoback.png'
-import css from '../assets/css3.png'
-import react from '../assets/reactNE.png'
-import html from '../assets/HTML5_Badge_512.png'
-import logo from '../assets/logo-title-light.png'
-import todd from '../assets/todd_smart.jpg'
+import backtoback from '../../assets/backtoback.png'
+import css from '../../assets/css3.png'
+import react from '../../assets/reactNE.png'
+import html from '../../assets/HTML5_Badge_512.png'
+import logo from '../../assets/logo-title-light.png'
+import todd from '../../assets/todd_smart.jpg'
 
 
 import '../layouts/main.css';
