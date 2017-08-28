@@ -6,16 +6,19 @@ import Helmet from 'react-helmet'
 import './index.css'
 import './main.css';
 
+import smartLogo from '../assets/main.svg'
+
 
 const Header = () =>
   <div className="hero">
       <div className="row container-fluid">
-          <div className="col-auto p-0 text-right">
-            <i className="fa fa-code"/>
-          </div>
+          {/*<div className="col-auto p-0 text-right">*/}
+            {/*<i className="fa fa-code"/>*/}
+          {/*</div>*/}
           <div className="col-auto">
-              <h1>Smart Binary</h1>
-              <h2>A Consultancy</h2>
+              <img src={smartLogo} alt="Smart Binary" />
+              {/*<h1>Smart Binary</h1>*/}
+              {/*<h2>A Consultancy</h2>*/}
           </div>
       </div>
   </div>

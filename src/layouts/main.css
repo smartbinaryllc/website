@@ -6000,7 +6000,7 @@ html {
   border-color: #4D575F; }
 
 h1, h2, h3, h4, h5, h6, p {
-  font-family: "Source Sans Pro", sans-serif; }
+  font-family: "Gotham Book Regular", "Source Sans Pro", sans-serif; }
 
 @media (min-width: 768px) {
   h2 {
@@ -6018,6 +6018,8 @@ h1, h2, h3, h4, h5, h6, p {
     font-weight: lighter; }
   .hero i {
     font-size: 40px; }
+  .hero img {
+    height: 100px; }
   .hero .row {
     width: 100%;
     margin: auto;
@@ -6058,6 +6060,7 @@ h1, h2, h3, h4, h5, h6, p {
 .founders {
   text-align: center; }
   .founders img {
+    width: 50%;
     border-radius: 100%;
     box-shadow: 0 2px 5px 4px rgba(0, 0, 0, 0.5); }
   .founders .social-icons i {

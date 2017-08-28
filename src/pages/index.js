@@ -47,7 +47,7 @@ export default () =>
         <h4>Smart Binary is basically run by superheros</h4>
         <ul className="nav justify-content-center pr-0 container-fluid">
             <li className="nav-item">
-                <a href="" className="nav-link active">Founder 1</a></li>
+                <a href="" className="nav-link active">Todd Smart</a></li>
             <li className="nav-item">
                 <a href="" className="nav-link">Founder 2</a></li>
             <li className="nav-item">

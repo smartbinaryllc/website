@@ -1,7 +1,7 @@
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
-$font-family: 'Source Sans Pro', sans-serif;
+$font-family: 'Gotham Book Regular', 'Source Sans Pro', sans-serif;
 $primary: #4D575F;
 $twitter: #4099FF;
 $reddit: #ff1a00;
@@ -45,6 +45,10 @@ h2 {
 
   i {
     font-size: 40px;
+  }
+
+  img {
+    height: 100px;
   }
 
   .row {
@@ -109,6 +113,7 @@ h2 {
   text-align: center;
 
   img {
+    width: 50%;
     border-radius: 100%;
     box-shadow: 0 2px 5px 4px rgba(0,0,0,0.5);
   }
