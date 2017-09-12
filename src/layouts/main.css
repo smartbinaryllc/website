@@ -6007,7 +6007,7 @@ h1, h2, h3, h4, h5, h6, p {
     font-size: 4rem; } }
 
 .hero {
-  background-image: url("../assets/hero.png");
+  background-image: url("../../assets/hero.png");
   min-height: 25vh;
   width: 100%;
   background-repeat: no-repeat;
@@ -6046,7 +6046,7 @@ h1, h2, h3, h4, h5, h6, p {
   align-items: center; }
 
 .what-we-do_wrapper {
-  background-image: url("../assets/secondary-hero.png");
+  background-image: url("../../assets/secondary-hero.png");
   min-height: 245px;
   width: 100%;
   background-repeat: no-repeat;
