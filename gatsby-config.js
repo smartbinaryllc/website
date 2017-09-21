@@ -1,11 +1,8 @@
 module.exports = {
-  siteMetadata: {
-    title: `Gatsby Default Starter`,
-  },
+  pathPrefix: `/smartbinary.github.io`,
   plugins: [
       `gatsby-plugin-react-helmet`,
       `gatsby-plugin-sass`,
-      
       {
           resolve: `gatsby-plugin-typography`,
           options: {
@@ -13,4 +10,7 @@ module.exports = {
           },
       },
   ],
+  siteMetadata: {
+    title: `Smart Binary, LLC`,
+  },
 }
