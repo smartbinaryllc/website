@@ -10,11 +10,14 @@
     "gatsby-plugin-typography": "^1.7.7",
     "typography-theme-bootstrap": "^0.15.10"
   },
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "develop": "gatsby develop",
     "serve": "gatsby serve",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
@@ -23,6 +26,7 @@
   "devDependencies": {
     "bootstrap": "^4.0.0-alpha.6",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^1.0.0",
     "prettier": "^1.5.3"
   }
 }
