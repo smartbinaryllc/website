@@ -32,7 +32,7 @@ h2 {
 
 .hero {
   background-image: url('../assets/hero.png');
-  min-height: 25vh;
+  min-height: 30vh;
   width: 100%;
   background-repeat: no-repeat;
   background-position: 0;
@@ -48,7 +48,12 @@ h2 {
   }
 
   img {
-    height: 100px;
+    height: 75px;
+    margin: auto;
+
+    @include media-breakpoint-up(md) {
+      height: 120px;
+    }
   }
 
   .row {
@@ -59,6 +64,7 @@ h2 {
   }
 
   @include media-breakpoint-up(md) {
+    min-height: 25vh;
 
     h1 {
       font-size: 5rem;
