@@ -54,7 +54,7 @@ export default () => (
           </p>
         </div>
         <div className="col-sm-6">
-          <img src={backtoback} alt="Logo" className=" img-responsive" />
+          <img src={backtoback} alt="Logo" className="img-responsive" />
         </div>
       </div>
     </section>
@@ -114,41 +114,36 @@ export default () => (
             <img
               src={logo}
               alt="Logo"
-              className="col col-md-6 img-responsive"
+              className="col-sm-6 col-md-6 img-responsive"
             />
             <img
               src={html}
               alt="html5"
-              className="col col-md-6  img-responsive"
+              className="col-sm-6 col-md-6  img-responsive"
             />
             <img
               src={react}
               alt="react"
-              className="col col-md-6  img-responsive"
+              className="col-sm-6 col-md-6  img-responsive"
             />
             <img
               src={css}
               alt="css3"
-              className="col col-md-6  img-responsive"
+              className="col-sm-6 col-md-6  img-responsive"
             />
           </div>
         </div>
       </div>
     </section>
     <section className="founders p-4">
-      <h2>Meet the Technical Partners</h2>
-      <ul className="nav justify-content-center pr-0 container-fluid">
-        <li className="nav-item">
-          <a href="" className="nav-link active">
-            Todd Smart
-          </a>
-        </li>
-        <li className="nav-item">
-          <a href="" className="nav-link">
-            Brad Bohen
-          </a>
-        </li>
-      </ul>
+      <h2>Meet the Founder</h2>
+      {/*<ul className="nav justify-content-center pr-0 container-fluid">*/}
+        {/*<li className="nav-item">*/}
+          {/*<a href="" className="nav-link">*/}
+            {/*Todd Smart*/}
+          {/*</a>*/}
+        {/*</li>*/}
+      {/*</ul>*/}
       <div className="row">
         <div className="col-sm-6">
           <img src={todd} alt="Todd Smart" />
@@ -198,7 +193,7 @@ export default () => (
         action="mailto:more.info@smartbinary.com"
         method="post"
         enctype="text/plain"
-        className="row container p-0 m-0"
+        className="row container mx-auto"
       >
         <div className="col-sm-6">
           <div className="form-group">
